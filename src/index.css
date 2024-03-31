@@ -1,0 +1,28 @@
+body{
+  height: 100vh;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.counter{
+  text-align: center;
+}
+.buttons{
+  padding: 15px 25px;
+  background-color: aqua;
+  color: white;
+  border: 1px rgb(24, 188, 247) solid;
+  border-radius: 20px 10px;
+  transition: ease-in-out 0.5s;
+}
+
+.buttons:hover{
+  background-color: rgba(62, 145, 145, 0.244);
+}
+
+.numero{
+  font-size: 3rem;
+}
