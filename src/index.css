@@ -17,6 +17,7 @@ body{
   border: 1px rgb(24, 188, 247) solid;
   border-radius: 20px 10px;
   transition: ease-in-out 0.5s;
+  margin-right: 15px;
 }
 
 .buttons:hover{
@@ -25,4 +26,5 @@ body{
 
 .numero{
   font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
 }
